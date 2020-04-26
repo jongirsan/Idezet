@@ -1,0 +1,35 @@
+body
+{
+
+  background-image: url('assets/zenwp.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+  }
+
+.peldabeszed
+{
+  margin-top: 50px;
+}
+p
+{
+   margin: 0 auto;
+   text-align: left;
+   font-family: Ubuntu;
+   font-size: 17px;
+   font-style: normal;
+   font-variant: small-caps;
+   color: black;
+   text-shadow: 1px 1px blue;
+ }
+ h5
+  {
+    text-align: right;
+    font-family: Ubuntu;
+    font-size: 14px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    line-height: 15.4px;
+ }
