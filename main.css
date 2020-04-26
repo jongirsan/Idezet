@@ -12,6 +12,32 @@ body
 {
   margin-top: 50px;
 }
+
+.nyelv
+{
+  position: absolute;
+  padding: 0 0 0 0;
+  right:0;
+  bottom: 0;
+  text-align: left;
+}
+
+a
+{
+  text-decoration: none;
+  font-family: Ubuntu;
+  font-size: 13px;
+  font-style: normal;
+  font-variant: small-caps;
+}
+
+ul
+{
+  padding: 0 0 0 0;
+  color:black;
+  text-align: left;
+}
+
 p
 {
    margin: 0 auto;
